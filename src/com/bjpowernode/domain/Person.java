@@ -10,6 +10,8 @@ public class Person {
 
     private String name;
 
-private String hh;
+    private String hh;
+
+    private String bb;
 
 }
